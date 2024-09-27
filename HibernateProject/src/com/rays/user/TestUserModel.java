@@ -10,8 +10,8 @@ public class TestUserModel {
 		 //testadd();
 //		testupdate();
 //		testdelete();
-//		testauthenticate();
-		testsearch();
+		testauthenticate();
+		//testsearch();
 	}
 
 	private static void testsearch() {

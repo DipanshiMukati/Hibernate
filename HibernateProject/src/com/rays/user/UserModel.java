@@ -92,7 +92,7 @@ public class UserModel {
 		
 		session.close();
 		return list;
-		
-		
+			
 	}
 	}
+
